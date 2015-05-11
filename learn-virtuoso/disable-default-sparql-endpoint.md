@@ -6,9 +6,9 @@
 2. 输入dba用户认证进入Conductor UI界面
 3. 选择Web Application Sever——>Virtual Domains & Directories
 4. 找到“/sparql”逻辑路径，在Action一列中，点击Edit按钮
-![img](/img/virtual-domains-directories.jpg)
+![img](../img/virtual-domains-directories.jpg)
 5. 将VSP User的值改为“nobody”   
-![disable](/img/disable-sparql-endpoint.jpg)
+![disable](../img/disable-sparql-endpoint.jpg)
 6. 点击“Save Changes”
 7. 默认的SPARQL终端即被禁用了
 
