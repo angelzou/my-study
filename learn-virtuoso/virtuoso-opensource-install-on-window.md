@@ -39,7 +39,7 @@ virtuoso open source edition下载链接：
 		virtuoso-t +instance "Instance Name" +service delete             
 
 ####(启动实例之后，在网页上面输入：http://localhost:8890/conductor/  进入管理页面)                
-![virtuoso admin page img](../img/virtuoso-main.jpg)    
+![virtuoso admin page img](img/virtuoso-main.jpg)    
 
 
 ###说明：             
